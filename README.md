@@ -1,10 +1,11 @@
 # VideoToBlogAI
+## Project Proposal for the AssemblyAI Challenge
+### Overview
+VideoToBlogAI is a project designed to generate technical blog posts from various sources such as local videos, and audio files (with a 30 MB limit). It leverages the Google Gemini AI API for language model tasks and AssemblyAI API for speech-to-text functionality.
 
 ![Main Image](./images/main.png)
 
-### Overview
 
-VideoToBlogAI is a project designed to generate technical blog posts from various sources such as local videos, and audio files (with a 30 MB limit). It leverages the Google Gemini AI API for language model tasks and AssemblyAI API for speech-to-text functionality.
 
 ![Upload Image](./images/upload.png)
 ![EditPost Image](./images/editpost.png)
